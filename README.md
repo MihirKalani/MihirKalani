@@ -15,6 +15,7 @@ Technical professional with a strong foundation in building scalable application
 | **Data & AI** | Machine Learning, Deep Learning, Power BI, SAP Analytics Cloud |
 | **Web Technologies** | Angular, HTML5, CSS3, Web Extensions |
 | **Version Control** | Git, GitHub |
+| **Cloud** | AWS(Amazon Web Services) |
 
 ---
 
