@@ -19,25 +19,6 @@ Technical professional with a strong foundation in building scalable application
 
 ---
 
-### Featured Projects
-
-#### [Virtual Card Manager](https://github.com/MihirKalani/virtual-card-manager)
-* **Java | Spring Boot | MySQL**
-* Developed a secure backend system for managing the lifecycle of virtual financial cards.
-* Implemented modular architecture and RESTful endpoints for real-time card generation and tracking.
-
-#### [Airbnb Data Analysis](https://github.com/MihirKalani/Airbnb-Data-Analysis)
-* Performed end-to-end Exploratory Data Analysis (EDA) on large-scale datasets.
-* Identified key pricing drivers and occupancy trends using Python and Pandas.
-* Visualized insights to provide actionable business recommendations.
-
-#### [LinkedIn Workflow Extension](https://github.com/MihirKalani/LinkedIn-Extension)
-* Developed a productivity-focused web extension using JavaScript.
-* Optimized user interaction patterns to improve platform navigation efficiency.
-* Focused on clean code architecture and seamless browser integration.
-
----
-
 ### 📫 Let's Connect
 * **LinkedIn:** ([https://www.linkedin.com/in/mihirkalani](https://www.linkedin.com/in/mihir-kalani/))
 * **Email:** [mihir.kalani29@gmail.com]
