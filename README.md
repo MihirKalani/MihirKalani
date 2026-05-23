@@ -11,7 +11,7 @@ Technical professional with a strong foundation in building scalable application
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | Java (Core & Advanced), Python, JavaScript |
-| **Database** | SQL (MySQL),MS SQL, PostgreSQL, MongoDB |
+| **Database** | SQL (MySQL), MS SQL, PostgreSQL, MongoDB |
 | **Backend & Tools** | Spring Boot, Apache Maven, Postman, REST APIs |
 | **Data & AI** | Machine Learning, Deep Learning, Power BI, SAP Analytics Cloud |
 | **Web Technologies** | Angular, HTML5, CSS3, Web Extensions |
