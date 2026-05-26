@@ -1,4 +1,4 @@
-# Hi, I'm Mihir Kalani 👋
+# Hi, I'm Mihir Kalani
 
 **Java Developer | Data Analyst | Machine Learning Enthusiast**
 
