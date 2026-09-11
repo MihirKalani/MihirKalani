@@ -23,6 +23,3 @@ Technical professional with a strong foundation in building scalable application
 ### 📫 Let's Connect
 * **LinkedIn:** ([https://www.linkedin.com/in/mihirkalani](https://www.linkedin.com/in/mihir-kalani/))
 * **Email:** [mihir.kalani29@gmail.com]
-* **Portfolio:** Available for full-stack and data-focused roles.
-
-*"Passionate about writing clean code and building data-driven solutions."*
